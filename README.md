@@ -1,7 +1,7 @@
 # ValorantSoundboard
 Soundboard to troll friends
 
-Install the App in your Android Phone from Google Play Store.
+Install the App from the Releases section. https://github.com/ScarRanger/ValorantSoundboard/releases/tag/Beta
 
 Click on the respective image for certain sound.
 
